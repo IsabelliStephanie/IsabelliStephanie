@@ -1,6 +1,4 @@
-## Oiii eu sou a Isabelli Stephanie. Estudante de Análise e Desenvolvimento de Sistemas
-
-
+## Olá eu sou a Isabelli Stephanie. Estudante de Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
