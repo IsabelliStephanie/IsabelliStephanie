@@ -29,3 +29,5 @@ Olá, sou a Isabelli Stephanie. Estudante de Análise e Desenvolvimento de Siste
  
  
 </div>
+
+![Snake animation](https://github.com/IsabelliStephanie/IsabelliStephanie/blob/output/github-contribution-grid-snake.svg)
